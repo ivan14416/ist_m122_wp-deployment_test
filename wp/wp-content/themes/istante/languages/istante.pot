@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-30 18:58+0200\n"
+"PO-Revision-Date: 2015-09-11 19:05+0100\n"
+"Last-Translator: Alessandro Vellutini <vellutini@hotmail.it>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_html_e;esc_html__;"
+"esc_html_x:1,2c;esc_attr__;esc_attr_e;_n_noop:1,2;_n_noop;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/templates/post-details.php:17
+msgid "0 comments"
+msgstr ""
+
+#: core/templates/post-details.php:18
+msgid "comment"
+msgstr ""
+
+#: core/templates/post-details.php:19
+msgid "comments"
+msgstr ""
+
+#: functions.php:205
+msgid "Logo text color"
+msgstr ""
+
+#: functions.php:206
+msgid "Choose your custom color for the logo."
+msgstr ""
+
+#: functions.php:210
+msgid "Istante settings"
+msgstr ""
+
+#: functions.php:216
+msgid "Sticky posts section"
+msgstr ""
+
+#: functions.php:232
+msgid "Sticky post grid"
+msgstr ""
+
+#: functions.php:233
+msgid "Do you want to enable the sticky post grid on homepage?."
+msgstr ""
+
+#: functions.php:235
+msgid "Disable"
+msgstr ""
+
+#: functions.php:236
+msgid "Layout 1"
+msgstr ""
+
+#: functions.php:237
+msgid "Layout 2"
+msgstr ""
+
+#: functions.php:238
+msgid "Layout 3"
+msgstr ""
+
+#: functions.php:239
+msgid "Layout 4"
+msgstr ""
+
+#: functions.php:244
+msgid "Featured Link Settings"
+msgstr ""
+
+#: functions.php:259
+msgid "Enable the featured links section"
+msgstr ""
+
+#: functions.php:260
+msgid ""
+"Do you want to display the featured links section, below the sticky "
+"post grid?."
+msgstr ""
+
+#: functions.php:264
+msgid "Featured Link #1"
+msgstr ""
+
+#: functions.php:276 functions.php:325 functions.php:373
+msgid "Image"
+msgstr ""
+
+#: functions.php:278 functions.php:327 functions.php:375
+msgid "Upload the image"
+msgstr ""
+
+#: functions.php:295 functions.php:344 functions.php:392
+msgid "Title"
+msgstr ""
+
+#: functions.php:296 functions.php:345 functions.php:393
+msgid "Insert the title of this slide"
+msgstr ""
+
+#: functions.php:307 functions.php:356 functions.php:404
+msgid "Url"
+msgstr ""
+
+#: functions.php:308 functions.php:357 functions.php:405
+msgid "Insert the url of this slide"
+msgstr ""
+
+#: functions.php:313
+msgid "Featured Link #2"
+msgstr ""
+
+#: functions.php:361
+msgid "Featured Link #3"
+msgstr ""
+
+#: functions.php:470
+msgid "Default image"
+msgstr ""
+
+#: functions.php:513
+msgid "Article"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:137
+msgid "Menu"
+msgstr ""
+
+#~ msgid "Category"
+#~ msgstr "Categorisa"
